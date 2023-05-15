@@ -57,13 +57,13 @@ Example code in Pycharm:
 import cv2
 
 # Reading to image
-image = cv2.imread('giris.jpg')
+image = cv2.imread('input.jpg')
 
 # showing to image
-cv2.imshow('Giriş Görüntüsü', image)
+cv2.imshow('<window_name>', image)
 cv2.waitKey(0)
 # saving to image
-cv2.imwrite('cikis.jpg', image)
+cv2.imwrite('output.jpg', image)
 
 # close to all windows
 cv2.destroyAllWindows()

@@ -18,12 +18,12 @@ Cross-platform support: OpenCV can run on different tablet systems and platforms
 Community support: OpenCV has a large user community, which is constantly adding new features, fixing bugs and sharing resources.
 Common uses for OpenCV include object detection, image processing-based automation, industrial applications, therapeutic imaging, robotics, security systems, and augmented reality.
 
-![]([resim_url](https://github.com/ElectronicEngineerr/Image-reading-writing-and-saving-with-opencv-in-python/blob/main/opencv_tutorial_header.jpg)
+!([resim_url](https://github.com/ElectronicEngineerr/Image-reading-writing-and-saving-with-opencv-in-python/blob/main/opencv_tutorial_header.jpg)
 
 
 I am using the Pycharm compiler while developing my projects in the opencv library. I recommend you too. A platform with an easy and beautiful interface. You can download the Pycharm compiler by searching on google and downloading it easily from its home page and reading the library downloads from the necessary platforms. Generally, we will use opencv-python, numpy, matplotlib libraries in projects. But in this repository I want to show you how to read an image, how to print it and how to save it.
 
-![PYCHARM ]([resim_url](https://github.com/ElectronicEngineerr/Image-reading-writing-and-saving-with-opencv-in-python/blob/main/PyCharm_IDE.jpg)
+![PYCHARM ](https://github.com/ElectronicEngineerr/Image-reading-writing-and-saving-with-opencv-in-python/blob/main/PyCharm_IDE.jpg)
 
 
 -In this application, it reads a file using the `cv2` (OpenCV) library, displays the image, and then looks at the same image in a different file.
